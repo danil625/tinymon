@@ -11,5 +11,6 @@ Email and list of checked services are defined in the beginning of the script.
 Don't forget to configure the mail system.
 
 
---
-Danil V. Gerun
+--  
+Danil V. Gerun  
+danil@625.ru
